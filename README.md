@@ -1,11 +1,11 @@
 # cpp-simple-workspace
 
-대학교 과제와 같은 단일 코드 실행을 위하여 프로젝트를 새로 생성하는 번거로운 작업 없이 간단히 코드 빌드를 도와주는 `Github Codespace` 기반 `Workspace` 입니다.
+대학교 과제나 실습 환경에서 새로운 코드를 짤 때 새 프로젝트를 만들거나 기존에 작성해두었던 코드를 삭제 또는 주석 처리를 하면서 개발했었습니다. 이 레포지토리는 복잡한 과정 없이 언제 어디서나 빠르게 코드 작성 및 빌드를 도와주는 `Github Codespace` 기반 `Workspace` 입니다.
 
-## 1. Workspace 클론
+## 1. Workspace 가져오기
 
-우측 상단에 이 프로젝트를 `Fork` 하여 본인의 `Repository`에 등록하세요.
-또한 설정 페이지에서 환경 이름을 변경하는 것을 추천드립니다.
+우측 상단에 이 레포지토리를 `Fork` 하여 본인의 `Repository`에 등록하세요.
+또한 설정 페이지에서 환경 이름을 변경하는 것을 추천드립니다. Private한 환경에서 구성하고 싶다면 [이 링크](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)를 참고하여 레포지토리를 `duplicate`하여 사용하세요.
 
 ## 2. Github Codespace 활성화
 
