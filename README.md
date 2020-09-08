@@ -4,8 +4,7 @@
 
 ## 1. Workspace 가져오기
 
-우측 상단에 이 레포지토리를 `Fork` 하여 본인의 `Repository`에 등록하세요.
-또한 설정 페이지에서 환경 이름을 변경하는 것을 추천드립니다. Private한 환경에서 구성하고 싶다면 [이 링크](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)를 참고하여 레포지토리를 `duplicate`하여 사용하세요.
+우측 상단에 `Use this template` 를 눌러 본인의 `Repository`에 등록하세요.
 
 ## 2. Github Codespace 활성화
 
