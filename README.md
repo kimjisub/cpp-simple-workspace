@@ -8,7 +8,7 @@
 
 ## 2. Github Codespace 활성화
 
-Fork 받은 본인의 Repository에서 초록색 `Code`를 눌러 `Open with Codespaces`를 클릭하고 새로운 `Codespace`를 생성하세요.
+등록된 본인의 Repository에서 초록색 `Code`를 눌러 `Open with Codespaces`를 클릭하고 새로운 `Codespace`를 생성하세요.
 
 ## 3-1. C/C++ 익스텐션 설치
 
